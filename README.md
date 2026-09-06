@@ -15,6 +15,49 @@ Every badge comes as an SVG. Color variants differ per badge type — some are o
 | `not-by-ai.svg` | Standard "Not By AI" logotype | root |
 | `not-by-ai-registered.svg` | Registered (®) logotype | root |
 
+## Preview
+
+**Logotypes**
+
+![Not By AI](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/not-by-ai.svg)
+![Not By AI (registered)](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/not-by-ai-registered.svg)
+
+**Writer badges** *(light background)*
+
+![Written](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/written-by-human-not-by-ai-white.svg)
+![Authored](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/authored-by-human-not-by-ai-white.svg)
+![Created](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/created-by-human-not-by-ai-white.svg)
+![Researched](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/researched-by-human-not-by-ai-white.svg)
+![Scripted](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/scripted-by-human-not-by-ai-white.svg)
+
+**Artist badges** *(light background)*
+
+![Painted](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/painted-by-human-not-by-ai-white.svg)
+![Drawn](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/drawn-by-human-not-by-ai-white.svg)
+![Illustrated](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/illustrated-by-human-not-by-ai-white.svg)
+![Photographed](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/photographed-by-human-not-by-ai-white.svg)
+![Animated](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/animated-by-human-not-by-ai-white.svg)
+
+**Producer badges** *(light background)*
+
+![Produced](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/produced-by-human-not-by-ai-white.svg)
+![Filmed](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/filmed-by-human-not-by-ai-white.svg)
+![Developed](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/developed-by-human-not-by-ai-white.svg)
+![Arranged](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/arranged-by-human-not-by-ai-white.svg)
+![Narrated](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/white/narrated-by-human-not-by-ai-white.svg)
+
+**Black variants** *(dark background)*
+
+<div align="center" style="background:#151515;padding:16px;border-radius:8px;display:inline-block">
+
+![Written](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/black/written-by-human-not-by-ai-black.svg)
+![Painted](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/black/painted-by-human-not-by-ai-black.svg)
+![Illustrated](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/black/illustrated-by-human-not-by-ai-black.svg)
+![Photographed](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/black/photographed-by-human-not-by-ai-black.svg)
+![Produced](https://raw.githubusercontent.com/linusau/not-by-ai-badges/main/black/produced-by-human-not-by-ai-black.svg)
+
+</div>
+
 ### Writer badges — for text-based content
 `written` · `authored` · `created` · `researched` · `scripted`
 *(good for blog posts, essays, books, research, code)*
